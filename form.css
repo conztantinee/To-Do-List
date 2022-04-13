@@ -1,0 +1,44 @@
+.wrapper {
+  margin-top: 30px;
+  border: solid 1px #ccc;
+  border-radius: 3px;
+}
+
+.title {
+  display: block;
+  padding: 10px 15px 10px;
+  background-color: #ebebeb;
+  border-bottom: solid 1px #ccc;
+}
+
+.margin-bottom-lg {
+  margin-bottom: 20px;
+}
+
+.margin-bottom-lg span {
+  padding: 10px;
+  background-color: #ebebeb;
+}
+
+.buttons {
+  text-align: right;
+}
+
+.form {
+  padding: 20px;
+}
+
+.text {
+  margin-top: 20px;
+  padding-top: 15px;
+  display: block;
+  border-top: solid 1px #ccc;
+}
+
+.col-sm-10 {
+  display: flex;
+}
+
+textarea.form-control {
+  min-height: 100px;
+}
